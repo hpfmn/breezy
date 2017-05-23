@@ -82,10 +82,10 @@ hi Search        guibg=#218058 guifg=#cfcfc2 gui=NONE
 
 hi Directory     guibg=NONE    guifg=#ffffff gui=NONE
 
-hi SpellBad      guibg=NONE    guifg=NONE    gui=undercurl
-hi SpellCap      guibg=NONE    guifg=NONE    gui=undercurl
-hi SpellLocal    guibg=NONE    guifg=NONE    gui=undercurl
-hi SpellRare     guibg=NONE    guifg=NONE    gui=undercurl
+hi SpellBad      guibg=#ff6060 guifg=NONE    gui=undercurl
+hi SpellCap      guibg=#8080ff guifg=NONE    gui=undercurl
+hi SpellLocal    guibg=#00ffff guifg=NONE    gui=undercurl
+hi SpellRare     guibg=#ff40ff guifg=NONE    gui=undercurl
 
 hi ColorColumn   guibg=#2a2e32 guifg=NONE    gui=NONE
 
